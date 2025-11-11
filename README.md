@@ -1,3 +1,5 @@
 # first-git
+Learning Github <br>
 This is my first git repository.
-</n> Author - hehehee
+</br>
+Author - hehehee
