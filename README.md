@@ -1,3 +1,3 @@
 # first-git
-This is my first git repository.</n>
-Author - hehehee
+This is my first git repository.
+</n> Author - hehehee
